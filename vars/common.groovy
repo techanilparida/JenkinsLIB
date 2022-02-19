@@ -1,4 +1,4 @@
-def git(url){
+def gitd(url){
  git "${url}"
 }
 def build(){
